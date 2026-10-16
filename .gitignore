@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+data/*.csv
+framingham.csv
+outputs/
+.ipynb_checkpoints/
